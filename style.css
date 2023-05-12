@@ -1,0 +1,28 @@
+body {
+	margin: 0;
+	font-family: Segoe UI ;
+}
+::selection {
+	background: #000;
+	color: yellowgreen;
+}
+.container {
+	width: 90%;
+	margin: auto;
+}
+/* 01 Header Area CSS Start  */
+.header-area {
+	background-image: url('img/header-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+	overflow: hidden;
+}
+/* 02 About Area CSS Start  */
+/* 05 Contact Area CSS Start */
+.contact-area {
+	background-image: url('img/subscribe-bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position:center;
+}
